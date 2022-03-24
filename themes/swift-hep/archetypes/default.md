@@ -7,5 +7,6 @@ menu:
     identifier: "{{ lower (replace .Name "-" "")  }}"
     weight: 100 
     parent: ""
+mermaid: false
 ---
 
