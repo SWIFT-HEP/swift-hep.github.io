@@ -1,7 +1,7 @@
 ---
 title: "The simulation Opticks team to participate in the UK Hackathon 2022"
 date: 2022-02-01T10:42:55Z
-draft: false
+draft: true
 start_date: 2022-03-07T10:42:55Z
 end_date: 2022-03-09T10:42:55Z
 ---

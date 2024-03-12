@@ -1,7 +1,7 @@
 ---
 title: "Joint GridPP & SWIFT-HEP workshop on 29-30 March 2023"
 date: 2023-01-25T10:19:38+00:00
-draft: false
+draft: true
 start_date: 2023-03-29T09:00:00Z
 end_date: 2023-03-30T18:00:00Z
 ---
