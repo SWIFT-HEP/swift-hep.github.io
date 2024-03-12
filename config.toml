@@ -45,6 +45,11 @@ sectionPagesMenu = "main"
      url = "https://indico.cern.ch/category/11790/"
      weight = 220
  [[menu.main]]
+     identifier = "workshops"
+     title = "Workshops"
+     url = "/workshops/"
+     weight = 225
+ [[menu.main]]
      identifier = "jobs"
      title = "Jobs"
      url = "/jobs/"

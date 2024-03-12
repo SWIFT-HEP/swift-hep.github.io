@@ -1,7 +1,7 @@
 ---
 title: "SWIFT-HEP workshop on 23-24  March 2022"
 date: 2021-11-02T12:02:41Z
-draft: false
+draft: true
 start_date: 2022-03-23T09:00:00Z
 end_date: 2022-03-24T18:00:00Z
 ---
