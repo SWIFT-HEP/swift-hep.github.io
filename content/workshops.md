@@ -3,6 +3,7 @@ title: "Workshops"
 date: 2024-03-12T09:43:40Z
 draft: false
 ---
+* [SWIFT-HEP  \#8](https://indico.cern.ch/event/1466097/) 11-12 November 2024 in Warwick
 * [SWIFT-HEP  \#7](https://indico.cern.ch/event/1366954/overview) Joint25-27 March 2024 with GridPP in Sheffield
 * [SWIFT-HEP  \#6](https://indico.cern.ch/event/1324606/) 21-22 November in Bristol
 * [SWIFT-HEP  \#5](https://indico.cern.ch/event/1215829/) 28-30 March 2023 with GridPP at the Coseners house
